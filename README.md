@@ -1,6 +1,6 @@
 Fast Bone Control provides Spine Pro-style bone controls in Blender.
 
-Right-click to switch between Move, Rotate, and Scale modes. You can transform selected bones by clicking and dragging anywhere in the viewport, without needing to click a gizmo or the bone itself.
+Right-click to switch between Move, Rotate, and Scale modes. Transform selected bones by clicking and dragging anywhere in the viewport—no need to click a gizmo, the bone itself, or press G, R, or S.
 
 Pressing a number key cycles through the registered bones/controllers for that slot. Shortcut assignments are saved with the Blender file.
 
